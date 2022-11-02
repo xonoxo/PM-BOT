@@ -2,8 +2,8 @@
   "name": "PM BOT",
   "description": "Personal Message Chatting Robot. Mabe By ~ (c)XnKiT",
   "keywords": ["telegram", "pm", "chat", "bot", "open", "source"],
-  "website": "https://github.com/xnkit",
-  "repository": "https://github.com/Xnkitk/PM-bot",
+  "website": "https://github.com/anonbdpro",
+  "repository": "https://github.com/anonbdpro/PM-bot",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
